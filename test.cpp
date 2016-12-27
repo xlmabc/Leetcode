@@ -1,3 +1,6 @@
+/*
+*It's a test doc
+*/
 #include <iostream>
 
 int main()
